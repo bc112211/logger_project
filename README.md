@@ -1,0 +1,1 @@
+This contains the report I wrote as well as a package with the keylogger hidden inside the install of libcurl. For safetly, it will inject into the notepad application, however can be changed to inject into explorer.exe. The INSTALLER executable will inject the keylogger and the UNINSTALLER will send the logs.
